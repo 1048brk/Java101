@@ -39,13 +39,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ATM">
-    <configuration name="ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atm.ATM" />
+  <component name="RunManager" selected="Application.FindingPalindrom">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci.Fibonacci" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Atm.*" />
+          <option name="PATTERN" value="Fibonacci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Armstrong.Armstrong" />
+    <configuration name="FindingPalindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.FindingPalindrom" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Armstrong.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasamakSayilariToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasamakSayilariToplami.BasamakSayilariToplami" />
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerfectNumber.PerfectNumber" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasamakSayilariToplami.*" />
+          <option name="PATTERN" value="PerfectNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HarmonicSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HarmonicSeries.HarmonicSeries" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumber.PrimeNumber" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HarmonicSeries.*" />
+          <option name="PATTERN" value="PrimeNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TriangleStar.TriangleStar" />
+    <configuration name="ReverseTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseTriangle.ReverseTriangle" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TriangleStar.*" />
+          <option name="PATTERN" value="ReverseTriangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ATM" />
-        <item itemvalue="Application.TriangleStar" />
-        <item itemvalue="Application.HarmonicSeries" />
-        <item itemvalue="Application.BasamakSayilariToplami" />
-        <item itemvalue="Application.Armstrong" />
+        <item itemvalue="Application.FindingPalindrom" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.ReverseTriangle" />
+        <item itemvalue="Application.PerfectNumber" />
       </list>
     </recent_temporary>
   </component>
